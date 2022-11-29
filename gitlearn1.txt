@@ -1,0 +1,16 @@
+  999  git remote -v
+ 1000  ls
+ 1001  touch index.html qpp.css
+ 1002  git init 
+ 1003  clear 
+ 1004  git add .
+ 1005  git commit -m "add html and css"
+ 1006  git log 
+ 1007  clear 
+ 1008  git branch 
+ 1009  git remote add origin https://github.com/adbioc/adgdemo.git
+ 1010  git push -u origin 
+ 1011  git push --set-upstream origin master
+ 1012  git push -u origin 
+ 1013  clear 
+ 1014  history
